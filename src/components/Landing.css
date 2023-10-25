@@ -1,0 +1,102 @@
+.title {
+    /* background-color: #16181D; */
+    background-color: rgb(0, 0, 0);
+    /* color: #bbbbbb; */
+    color: #fff;
+}
+
+.name {
+    color: #FFD700;
+}
+
+.web {
+    color: #FFD700;
+    /* color: #f4649f; */
+}
+
+.para {
+    /* color: #bbbbbb; */
+}
+
+strong {
+    color: #fff;
+    /* color: #FFA500; */
+    /* color: #004953; */
+    /* color: #00FF00  ; */
+    /* color: #28372A; */
+    /* color: #004C54; */
+    /* text-shadow: 0 0 7px #FFD700; */
+    /* text-shadow: 1px 3px 3px #FFD700; */
+    -webkit-text-stroke: 1.5px #FFD700;
+}
+
+.image {
+    /* margin-top: -30px; */
+    /* transform: translate(0, -17%); */
+    margin-top: -150px;
+    clip-path: polygon(0 20%, 100% 20%, 100% 100%, 0 100%);
+}
+
+.dot {
+    color: #600000;
+}
+
+.dot-c {
+    color: #FFD700;
+}
+
+.about-desc {
+    font-family: 'Kalam', cursive;
+    color: #001f3f;
+    font-size: 1.4em;
+    /* font-family: 'Edu SA Beginner', cursive; */
+    /* font-family: cursive; */
+
+}
+
+.about {
+    /* background-color: #bbbbbb; */
+}
+
+.about-title {
+    /* font-family: 'ZCOOL XiaoWei', sans-serif; */
+    font-family: Belleza;
+    /* font-family: Lato; */
+}
+
+.icon {
+    /* color: #600000; */
+    color: #FFD700;
+    transform: scale(1.8);
+}
+
+.digit {
+    color: #333333;
+    font-family: Lato;
+    font-weight: 400;
+}
+
+.icon-desc {
+    font-family: Exo;
+    font-weight: 500;
+    color: #001f3f;
+}
+
+.sub {
+    font-family: Philosopher;
+    font-weight: 600;
+    /* color: #002447; */
+    color: #1b1a1a;
+}
+
+.sub-p {
+    font-family: Belleza;
+    color: #001f3f;
+}
+
+.bg-gold {
+    /* background-color: #FFD700; */
+    --tw-bg-opacity: 1;
+    background-color: rgb(250 204 21 / var(--tw-bg-opacity));
+    font-family: Belleza;
+}
